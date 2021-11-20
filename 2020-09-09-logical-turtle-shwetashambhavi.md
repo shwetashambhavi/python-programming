@@ -1,5 +1,4 @@
 ---
-layout: post
 author: shwetashambhavi
 title: "Shweta Shambhavi logical turtle in-class exercise"
 ---
